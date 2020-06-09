@@ -27,3 +27,7 @@ bin/
 # fabric
 
 run/
+
+# garbage
+
+.DS_Store
